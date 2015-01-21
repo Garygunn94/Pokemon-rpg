@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="credits" tilewidth="32" tileheight="32">
+  <image source="credits.png" trans="ffffff" width="64" height="320"/>
+ </tileset>
+ <layer name="ground" width="20" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC63FyRGAIBAAwcUbFEQ0/1idIObR1SkiJiTpGYv4ik18xyGeUcRPXOIVTfxGF38wxF984j8ss8s1IAMAAA==
+  </data>
+ </layer>
+</map>
